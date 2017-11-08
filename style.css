@@ -24,9 +24,8 @@ nav ul li {
   margin-right: 10px
 }
 
-/* Why the fuck won't the code below this work?*/
+
 nav#a {
-  text-decoration:none;
   text-decoration:#007bff;
   font-size: 18px
 }
