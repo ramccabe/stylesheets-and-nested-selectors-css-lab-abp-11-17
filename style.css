@@ -25,7 +25,8 @@ nav ul li {
 }
 
 
-nav a:text-decoration {
-  text-decoration: none;
+nav a:{
+  font-size: 18px;
+  color: #007bff;
 
 }
