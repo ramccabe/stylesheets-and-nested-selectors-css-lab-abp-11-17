@@ -24,7 +24,7 @@ nav ul li {
   margin-right: 10px
 }
 
-nav a:hover {
+nav a {
   text-decoration: none;
   font-size: 18px;
   color: #007bff;
