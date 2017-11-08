@@ -5,3 +5,28 @@
 body {
   padding: 0 30px 0 30px;
 }
+
+header {
+  height: 100px;
+  border-bottom: 1px solid #cccccc
+}
+header nav {
+  float: right;
+}
+
+nav ul {
+  padding: 0;
+  margin: 40px 0 0 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px
+}
+
+/* Why the fuck won't the code below this work?*/
+nav a {
+  text-decoration:none;
+  text-decoration:#007bff;
+  font-size: 18px
+}
